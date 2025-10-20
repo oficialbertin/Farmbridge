@@ -1,0 +1,4 @@
+2025-10-03 14:28:36,BRIDGE,{"msg":"how are you doing","intent":"how_platform"}
+2025-10-03 14:54:57,BRIDGE,{"msg":"which crop can u advise me to plant for this season","intent":"advice"}
+2025-10-03 14:57:47,BRIDGE,{"msg":"messy","intent":"price"}
+2025-10-03 14:58:48,BRIDGE,{"msg":"hellp advise me on beans","intent":"price"}

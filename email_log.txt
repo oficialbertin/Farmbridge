@@ -1,0 +1,4 @@
+2025-10-11 14:55:30 {"to":"bertinniga@gmail.com","subject":"Verify Your FarmBridge AI Account","ok":false}
+{"timestamp":"2025-10-11 15:12:13","to":"bertinnniga@gmail.com","subject":"Verify Your FarmBridge AI Account","from_email":"oficialbertin@gmail.com","success":false,"error":"mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()"}
+{"timestamp":"2025-10-11 15:41:01","to":"bertinniga@gmail.com","subject":"Verify Your FarmBridge AI Account","success":false,"error":"Failed to send email via all SMTP services. Please check your email configuration."}
+{"timestamp":"2025-10-11 15:44:30","to":"bertinniga@gmail.com","subject":"Verify Your FarmBridge AI Account","success":false,"error":"Failed to send email via all SMTP services. Please check your email configuration."}

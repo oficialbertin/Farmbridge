@@ -1,0 +1,6 @@
+Host FarmBridge-Production
+    HostName 62.169.22.2
+    User bertin1
+    Port 22
+    StrictHostKeyChecking no
+    UserKnownHostsFile /dev/null

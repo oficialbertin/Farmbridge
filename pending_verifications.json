@@ -1,0 +1,14 @@
+[
+    {
+        "email": "bertinniga@gmail.com",
+        "token": "7824061dec7b429c37b2c29422e421ed' \n               style='background: #2e7d32; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; display: inline-block;'>\n                Verify Email Address\n            <\/a>\n        <\/div>\n        <p>Or copy and paste this link in your browser:<\/p>\n        <p style='word-break: break-all; color: #666;'>http:\/\/localhost\/FarmBridgeAI\/verify_email.php?token=7824061dec7b429c37b2c29422e421ed<\/p>\n        <p>This verification link will expire in 24 hours.<\/p>\n        <p>If you didn't create this account, please ignore this email.<\/p>\n        <hr style='margin: 30px 0; border: none; border-top: 1px solid #eee;'>\n        <p style='color: #666; font-size: 12px;'>FarmBridge AI - Connecting Farmers ",
+        "created_at": "2025-10-11 15:48:35",
+        "status": "pending"
+    },
+    {
+        "email": "bertinniga@gmail.com",
+        "token": "5a04214cd26a5b2d80139fdfb32a3074' \n               style='background: #2e7d32; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; display: inline-block;'>\n                Verify Email Address\n            <\/a>\n        <\/div>\n        <p>Or copy and paste this link in your browser:<\/p>\n        <p style='word-break: break-all; color: #666;'>http:\/\/localhost\/FarmBridgeAI\/verify_email.php?token=5a04214cd26a5b2d80139fdfb32a3074<\/p>\n        <p>This verification link will expire in 24 hours.<\/p>\n        <p>If you didn't create this account, please ignore this email.<\/p>\n        <hr style='margin: 30px 0; border: none; border-top: 1px solid #eee;'>\n        <p style='color: #666; font-size: 12px;'>FarmBridge AI - Connecting Farmers ",
+        "created_at": "2025-10-11 15:55:47",
+        "status": "pending"
+    }
+]

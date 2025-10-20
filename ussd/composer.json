@@ -1,0 +1,36 @@
+{
+    "name": "farmbridge-ai/ussd",
+    "description": "FarmBridge AI USSD Application for agricultural trading and farming tips",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "FarmBridge AI Team",
+            "email": "dev@farmbridgeai.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "ext-json": "*",
+        "ext-pdo": "*",
+        "africastalking/africastalking": "^3.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "FarmBridgeAI\\USSD\\": "src/"
+        }
+    },
+    "scripts": {
+        "test": "phpunit",
+        "install-deps": "composer install --no-dev --optimize-autoloader"
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "sort-packages": true
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
