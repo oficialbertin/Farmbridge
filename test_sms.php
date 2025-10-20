@@ -12,8 +12,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $action = $_POST['action'] ?? '';
     
     // Initialize SMS with credentials
-    hdev_sms::api_id(SMS_API_ID);
-    hdev_sms::api_key(SMS_API_KEY);
+    hdev_sms::api_id('HDEV-23f7706f-1482-421c-84f8-be9137b708b4-ID');
+    hdev_sms::api_key('HDEV-22e1623d-840c-4280-947a-1e88f2a043c1-KEY');
     
     if ($action === 'send_sms') {
         $sender_id = $_POST['sender_id'] ?? SMS_SENDER_ID;
